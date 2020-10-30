@@ -2,22 +2,30 @@
 
 This is a project for Virtual Reailty course. The VR environment was completely developed with HTML, JavaScript, and CSS by implementing the A-Frame library.
 
-### You tube link
+## You tube link
 
 
-### Assets
+## Assets
 
-1. Sofa - 
+1. Models:
+
+   a) Sofa - https://sketchfab.com/3d-models/couch-f7654b3f336249d8bb6ae12503e6b543
+   b) Curtains - https://sketchfab.com/3d-models/hand-painted-curtains-c5480385018644d2a938a2beb8f596a7 
+   c) Threatre Video - https://www.pexels.com/videos/
+   d) dog - https://sketchfab.com/3d-models/dog-run-cycle-496fcd675d214b5d82a6d37bf18d2374
+   e) fox - https://sketchfab.com/3d-models/fox-robin-17c9108a19884b7c9a5f0e65130b4af1
+   
+2. Textures:
+
+   a) Couch -https://www.textures.com/download/pbr0208/133245?q=sofa
+   b) fox - https://www.textures.com/category/modern/75
+   
 
 
-### Deploy to Github Pages
-
-Make sure you have committed all changes to master branch. Then run:
-
-    npm run deploy
 
 
-### Links
-[A-Frame](https://aframe.io/)
-[Firefox Nightly (supports WebVR)](https://www.mozilla.org/en-US/firefox/channel/desktop/)
-[Map Generator Inspiration (24 Ways)](https://24ways.org/2016/first-steps-in-vr/)
+## Demo pictures
+
+
+
+
