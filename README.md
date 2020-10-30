@@ -1,33 +1,13 @@
-# Marketing Presentation in VR Demo
+# Virtual Reality Project 1
 
-This is a simple demonstration of how easy it is to build virtual reality presentations using A-Frame.
+This is a project for Virtual Reailty course. The VR environment was completely developed with HTML, JavaScript, and CSS by implementing the A-Frame library.
 
-### Installation
-
-First make sure you have Node installed.
-
-On Mac OS X, it's recommended to use [Homebrew](http://brew.sh/) to install Node + [npm](https://www.npmjs.com):
-
-    brew install node
-
-To install the Node dependencies:
-
-    npm install
+### You tube link
 
 
-### Local Development
+### Assets
 
-To serve the site from a simple Node development server:
-
-    npm start
-
-Then launch the site from your favourite browser:
-
-[__http://localhost:3000/__](http://localhost:3000/)
-
-If you wish to serve the site from a different port:
-
-    PORT=8000 npm start
+1. Sofa - 
 
 
 ### Deploy to Github Pages
