@@ -1,11 +1,7 @@
 # Virtual Reality Project 1
 
-This is a project for Virtual Reailty course. The VR environment was completely developed with HTML, JavaScript, and CSS by implementing the A-Frame library.
 
-
-
-
-### The complete report is in the Report.pdf file.
+### The complete description is in the Report.pdf file.
 
 
 
