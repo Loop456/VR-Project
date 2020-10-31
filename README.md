@@ -20,11 +20,11 @@ This is a project for Virtual Reailty course. The VR environment was completely 
    a) Couch -https://www.textures.com/download/pbr0208/133245?q=sofa
    b) fox - https://www.textures.com/category/modern/75
    
-
-
-
+   
 
 ## Demo pictures
+
+
 
 
 
