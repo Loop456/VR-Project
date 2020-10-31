@@ -5,7 +5,7 @@ This is a project for Virtual Reailty course. The VR environment was completely 
 
 
 
-## The complete reprt is in the Report.pdf file.
+### The complete reprt is in the Report.pdf file.
 
 
 
